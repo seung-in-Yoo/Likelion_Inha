@@ -1,0 +1,18 @@
+.btn {
+  padding: 12px 16px;
+
+  border: none;
+  border-radius: 12px;
+  background-color: #2563eb;
+
+  color: white;
+  font-size: 20px;
+}
+
+.btn:hover {
+  background-color: #1e40af;
+}
+
+.btn.selected {
+  background-color: pink;
+}
